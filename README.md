@@ -1,2 +1,4 @@
-# The-Last-Mageknight-
-Small medieval action PSX-style game
+#Suddenly Knight
+Small medieval/psychedelic action PSX-style game
+
+
